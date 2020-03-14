@@ -1,31 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 
+
+#dropdown-menu-r .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-r .navbar-brand a {
+  font-size: 17px;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#dropdown-menu-r .nav .link,
+#dropdown-menu-r .dropdown-item {
+  font-size: 1.4em;
+  color: #fff8e0;
+}
+#dropdown-menu-r .navbar,
+#dropdown-menu-r .dropdown-menu {
+  background: #fff8e0;
+}
+#dropdown-menu-r .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-r .dropdown-menu a:hover,
+#dropdown-menu-r .dropdown-menu a:focus {
+  background: #fff3cc;
+}
+#dropdown-menu-r .navbar-toggler {
+  color: #fff8e0;
+}
 #form1-w .btn {
   font-family: 'Playfair Display', sans-serif;
 }
 #form1-w .mbr-section-title {
   color: #fff8e0;
 }
-#menu-1k .navbar-toggler {
-  color: #000;
+
+#dropdown-menu-q .hide-buttons [data-button] {
+  display: none !important;
 }
-#menu-1k .nav-link {
-  font-size: 24px;
+#dropdown-menu-q .navbar-brand a {
+  font-size: 17px;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#dropdown-menu-q .nav .link,
+#dropdown-menu-q .dropdown-item {
+  font-size: 1.4em;
+  color: #fff8e0;
+}
+#dropdown-menu-q .navbar,
+#dropdown-menu-q .dropdown-menu {
+  background: #fff8e0;
+}
+#dropdown-menu-q .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-q .dropdown-menu a:hover,
+#dropdown-menu-q .dropdown-menu a:focus {
+  background: #fff3cc;
+}
+#dropdown-menu-q .navbar-toggler {
+  color: #fff8e0;
 }
 #form1-11 .mbr-section-title {
   color: #fff8e0;
 }
-#menu-1k .navbar-toggler {
-  color: #000;
+
+#dropdown-menu-n .hide-buttons [data-button] {
+  display: none !important;
 }
-#menu-1k .nav-link {
-  font-size: 24px;
+#dropdown-menu-n .navbar-brand a {
+  font-size: 17px;
+  font-family: 'Alegreya Sans', sans-serif;
 }
-#menu-1k .navbar-toggler {
-  color: #000;
+#dropdown-menu-n .nav .link,
+#dropdown-menu-n .dropdown-item {
+  font-size: 1.4em;
+  color: #fff8e0;
 }
-#menu-1k .nav-link {
-  font-size: 24px;
+#dropdown-menu-n .navbar,
+#dropdown-menu-n .dropdown-menu {
+  background: #fff8e0;
+}
+#dropdown-menu-n .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-n .dropdown-menu a:hover,
+#dropdown-menu-n .dropdown-menu a:focus {
+  background: #fff3cc;
+}
+#dropdown-menu-n .navbar-toggler {
+  color: #fff8e0;
 }
 
 #header1-7 H1 {
@@ -52,10 +110,4 @@
 #contacts1-u P {
   font-size: 15px;
   text-align: left;
-}
-#menu-1k .navbar-toggler {
-  color: #000;
-}
-#menu-1k .nav-link {
-  font-size: 24px;
 }
