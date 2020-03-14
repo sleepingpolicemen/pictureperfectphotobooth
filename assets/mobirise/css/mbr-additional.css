@@ -12,8 +12,12 @@
 #menu-15 .nav-link {
   font-size: 24px;
 }
+
 #form1-11 .mbr-section-title {
   color: #fff8e0;
+}
+#form1-11 .btn {
+  font-family: 'Playfair Display', sans-serif;
 }
 #menu-15 .navbar-toggler {
   color: #000;

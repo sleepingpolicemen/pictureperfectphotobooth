@@ -194,7 +194,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Offerte aanvragen<br><br>",
+          "title": "Offerte aanvragen<br>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Verzenden</a>",
           "form": {
             "action": "fertahiachraf55@gmail.com",
@@ -232,6 +232,10 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#fff8e0"
+            },
+            ".btn": {
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
             }
           }
         },
