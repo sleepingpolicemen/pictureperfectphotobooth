@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contact.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -22,11 +22,16 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "uniqCompNum": 42,
     "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    }
   },
   "pages": {
     "contact.html": {
